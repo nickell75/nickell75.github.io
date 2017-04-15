@@ -31,5 +31,13 @@ body{
 }
 #bkgrimg{
 	background-image: url("huskyMT.jpg");
-
+}
+table, th, td{
+	border: 3px solid black;
+}
+@media screen and (max-width: 500px) {
+  body {
+    width: 800px;
+    margin: 0 auto;
+  }
 }
