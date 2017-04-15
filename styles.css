@@ -1,0 +1,24 @@
+#navbar li{
+	display: inline;
+	font-size: 3em;
+}
+body{
+	border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 75px;
+ 	background-color: #77C8DC;
+}
+img{
+
+}
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid black;
+    padding: 10px;
+}
+#headline{
+	font-family: times new roman;
+}
