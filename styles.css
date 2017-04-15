@@ -35,9 +35,9 @@ body{
 table, th, td{
 	border: 3px solid black;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1200px) {
   body {
-    width: 800px;
+    width: 1050px;
     margin: 0 auto;
   }
 }
